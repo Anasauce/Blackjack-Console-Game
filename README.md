@@ -13,6 +13,10 @@ _List of specifications (specs) for the completed goal. These are declarative se
 - [ ] Multiple local players
 - [ ] Multiple AI players
 - [ ] AI Dealer
+- [ ] Split your bet
+- [ ] Double your bet
+- [ ] Inssurance
+- [ ] Surrender
 - [ ] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
 ---
