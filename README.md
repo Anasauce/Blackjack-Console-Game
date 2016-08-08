@@ -45,7 +45,7 @@ Repeat until player chooses to stay:
 - [ ] Player chooses to hit or stay
 - [ ] if player goes over 21, player busts
 
-New Features/Stretch Goals
+#Stretch Goals
 
 Betting
 
@@ -58,13 +58,8 @@ Betting
 - [ ] Double Down
 - [ ] Split/Resplit
 - [ ] Insurance
-
-- [ ] Multiple local players
-- [ ] Multiple AI players
-- [ ] AI Dealer
 - [ ] Split your bet
 - [ ] Double your bet
-- [ ] Insurance
 - [ ] Surrender
 - [ ] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
