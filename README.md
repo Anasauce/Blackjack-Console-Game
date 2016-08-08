@@ -10,7 +10,7 @@ _Why is this goal important? How is it useful? What questions will it raise?_
 
 _List of specifications (specs) for the completed goal. These are declarative sentences (statements) describing some quality or behavior of the final product._
 
-Blackjack:
+## Blackjack:
 
 Dealer and Player characters Dealer Logic:
 - [ ] Dealer gives out cards in specific order
