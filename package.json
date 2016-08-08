@@ -1,0 +1,13 @@
+{
+  "name": "Blackjack-Console-Game",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "expect": "^1.20.2",
+    "mocha": "^3.0.2",
+    "readline-sync": "^1.4.4"
+  }
+}
