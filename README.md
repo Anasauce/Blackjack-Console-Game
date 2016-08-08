@@ -13,27 +13,27 @@ _List of specifications (specs) for the completed goal. These are declarative se
 Blackjack:
 
 Dealer and Player characters Dealer Logic:
-- [ ]Dealer gives out cards in specific order
-- [ ]Dealer gives out:
-- [ ]one card face down to player
-- [ ]one card face down to Dealer
-- [ ]one card face up to player
-- [ ]one card face up to Dealer
-- [ ]shuffle the deck
-- [ ]Dealer plays, hitting while 16 or under (17 or more, dealer stays)
-- [ ]If dealer hits and busts, player wins
+- [ ] Dealer gives out cards in specific order
+- [ ] Dealer gives out:
+- [ ] one card face down to player
+- [ ] one card face down to Dealer
+- [ ] one card face up to player
+- [ ] one card face up to Dealer
+- [ ] shuffle the deck
+- [ ] Dealer plays, hitting while 16 or under (17 or more, dealer stays)
+- [ ] If dealer hits and busts, player wins
 Player Logic:
 
-- [ ]if player gets Blackjack right at the start (Natural), player wins
+- [ ] if player gets Blackjack right at the start (Natural), player wins
 
 Repeat hit or stay until player chooses to stay:
-- [ ]Player chooses to hit or stay
-- [ ]if player goes over 21, player busts
+- [ ] Player chooses to hit or stay
+- [ ] if player goes over 21, player busts
 Backend Game Logic:
 
-- [ ]Compare player total to dealer total, highest wins
+- [ ] Compare player total to dealer total, highest wins
 
-- [ ]If player wins, players get their bet back, doubled
+- [ ] If player wins, players get their bet back, doubled
 
 Repeat until player chooses to stay:
 
