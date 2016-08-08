@@ -29,6 +29,7 @@ Player Logic:
 Repeat hit or stay until player chooses to stay:
 - [ ] Player chooses to hit or stay
 - [ ] if player goes over 21, player busts
+
 Backend Game Logic:
 
 - [ ] Compare player total to dealer total, highest wins
