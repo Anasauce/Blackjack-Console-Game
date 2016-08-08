@@ -10,14 +10,9 @@ _Why is this goal important? How is it useful? What questions will it raise?_
 
 _List of specifications (specs) for the completed goal. These are declarative sentences (statements) describing some quality or behavior of the final product._
 
-- [ ] Spec One.
-- [ ] Spec Two.
-- [ ] Spec Three.
-
-### Required
-
-_Do not remove these specs - they are required for all goals_.
-
+- [ ] Multiple local players
+- [ ] Multiple AI players
+- [ ] AI Dealer
 - [ ] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
 ---
