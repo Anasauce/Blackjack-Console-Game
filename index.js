@@ -1,3 +1,5 @@
+const game = require('./lib/game')
+
 const interface = require('./lib/interface')
 const add = require('./lib/add')
 
@@ -7,6 +9,9 @@ console.log('Basic rules: Play against the dealer with the goal of getting a han
 console.log('Face cards are worth 10pts other cards are worth their face value. Aces are either 1 or 11')
 console.log('Dealer deals 1 card face up and one face down to each player starting at his left to begin')
 
-// var players = interface.askForNumber('How many human players do you want to create?')
-// console.log(players)
+var players = interface.askForNumber('How many human players do you want to create?')
+ console.log("You have:" + " " players + " " + "players in this round")
 // console.log(typeof players)
+
+var ourGame = new game
+console.log(ourGame)
