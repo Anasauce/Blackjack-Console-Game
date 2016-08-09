@@ -64,6 +64,7 @@ Betting
 - [ ] Surrender
 - [ ] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 - [ ] buy jared a doughnut
+
 ---
 
 <!-- LICENSE -->
