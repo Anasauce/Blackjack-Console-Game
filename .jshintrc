@@ -1,0 +1,8 @@
+{
+  "undef": true,
+  "unused": true,
+  "curly": false,
+  "esversion": 6,
+  "asi": true,
+  "node": true
+}
