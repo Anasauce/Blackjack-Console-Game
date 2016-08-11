@@ -13,48 +13,48 @@ _List of specifications (specs) for the completed goal. These are declarative se
 ## Blackjack:
 
 Dealer and Player characters Dealer Logic:
-- [ ] Dealer gives out cards in specific order
-- [ ] Dealer gives out:
+- [X] Dealer gives out cards in specific order
+- [X] Dealer gives out:
 - [ ] one card face down to player
 - [ ] one card face down to Dealer
-- [ ] one card face up to player
-- [ ] one card face up to Dealer
-- [ ] shuffle the deck
-- [ ] Dealer plays, hitting while 16 or under (17 or more, dealer stays)
-- [ ] If dealer hits and busts, player wins
+- [X] one card face up to player
+- [X] one card face up to Dealer
+- [X] shuffle the deck
+- [X] Dealer plays, hitting while 16 or under (17 or more, dealer stays)
+- [X] If dealer hits and busts, player wins
 Player Logic:
 
 - [ ] if player gets Blackjack right at the start (Natural), player wins
 
 Repeat hit or stay until player chooses to stay:
-- [ ] Player chooses to hit or stay
-- [ ] if player goes over 21, player busts
+- [X] Player chooses to hit or stay
+- [X] if player goes over 21, player busts
 
 Backend Game Logic:
 
-- [ ] Compare player total to dealer total, highest wins
+- [X] Compare player total to dealer total, highest wins
 
 - [ ] If player wins, players get their bet back, doubled
 
 Repeat until player chooses to stay:
 
-- [ ] Player chooses to hit or stay
+- [X] Player chooses to hit or stay
 
 - [ ] If hits and bust (go over 21), automatically loses
-- [ ] if player gets Blackjack right at the start (Natural), player wins
-- [ ] Repeat hit or stay until player chooses to stay:
-- [ ] Player chooses to hit or stay
-- [ ] if player goes over 21, player busts
-
+- [X] if player gets Blackjack right at the start (Natural), player wins
+- [X] Repeat hit or stay until player chooses to stay:
+- [X] Player chooses to hit or stay
+- [X] if player goes over 21, player busts
+- [X] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 #Stretch Goals
 
 Betting
 
-- [ ] Place a bet at the beginning of the hand.
+- [X] Place a bet at the beginning of the hand.
 - [ ] Handle bets for additional circumstances (double down, split, etc.)
-- [ ] Multiple players
-- [ ] Hot Seat Multiplayer
-- [ ] AI Players
+- [X] Multiple players
+- [X] Hot Seat Multiplayer
+- [X] AI Players
 - [ ] New Game Rules
 - [ ] Double Down
 - [ ] Split/Resplit
@@ -62,7 +62,7 @@ Betting
 - [ ] Split your bet
 - [ ] Double your bet
 - [ ] Surrender
-- [ ] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
+
 - [ ] buy jared a doughnut
 
 ---
