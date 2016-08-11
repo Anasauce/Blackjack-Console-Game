@@ -34,18 +34,19 @@ Backend Game Logic:
 
 - [X] Compare player total to dealer total, highest wins
 
-- [ ] If player wins, players get their bet back, doubled
+- [X] If player wins, players get their bet back, doubled
 
 Repeat until player chooses to stay:
 
 - [X] Player chooses to hit or stay
 
-- [ ] If hits and bust (go over 21), automatically loses
+- [X] If hits and bust (go over 21), automatically loses
 - [X] if player gets Blackjack right at the start (Natural), player wins
 - [X] Repeat hit or stay until player chooses to stay:
 - [X] Player chooses to hit or stay
 - [X] if player goes over 21, player busts
 - [X] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
+
 #Stretch Goals
 
 Betting
