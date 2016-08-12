@@ -15,8 +15,8 @@ _List of specifications (specs) for the completed goal. These are declarative se
 Dealer and Player characters Dealer Logic:
 - [X] Dealer gives out cards in specific order
 - [X] Dealer gives out:
-- [ ] one card face down to player
-- [ ] one card face down to Dealer
+- [X] one card face down to player
+- [X] one card face down to Dealer
 - [X] one card face up to player
 - [X] one card face up to Dealer
 - [X] shuffle the deck
